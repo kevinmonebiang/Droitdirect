@@ -82,11 +82,6 @@ C:\flutter\bin\flutter.bat run -d chrome
 6. Si la demande est acceptee, le client paie via Orange Money ou MTN.
 7. Apres confirmation du paiement, la conversation peut se poursuivre en messagerie.
 
-## Paiement USSD
-
-- Orange Money: `#150*46*0780539*{amount}*2#`
-- MTN Mobile Money: `*126*4*752923*{amount}#`
-
 ## Notes importantes
 
 - L'admin ne doit pas etre cree depuis l'inscription publique.
