@@ -1,6 +1,6 @@
 # DroitDirect
 
-Application camerounaise de reservation de services juridiques verifies.
+Application camerounaise de reservation de services juridiques ( Avocat, huissiers, notaires,)
 
 ## Ce qui fonctionne
 
